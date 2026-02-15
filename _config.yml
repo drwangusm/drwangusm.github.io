@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "ChuanChuan Wang (王传传)"
 description              : "Ph. D. Student, Michigan State University"
-repository               : "JackYFL/jackyfl.github.io"
+repository               : "drwangusm/drwangusm.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : JackYFL # e.g., "github username"
+  github           : drwangusm # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : JackYFL # e.g., "linkedin username"
+  linkedin         : drwangusm # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   # orcid            : https://orcid.org/0000-0002-5578-6608 # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : Jack_YFL
+  twitter          : drwangusm
   vine             :
   weibo            :
   xing             :
